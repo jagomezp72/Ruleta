@@ -1,5 +1,5 @@
 # Ruleta
-coding as candidate got new job.
+coding as candidate to got new job.
 
 api builded in vs2019
 
